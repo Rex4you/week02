@@ -1,0 +1,34 @@
+//let myAge: Int = 25
+
+//OR
+
+let myAge = 25
+//-----------------------------------
+
+var averageAge: Double = 25
+averageAge = 30
+
+//OR
+
+//var averageAge = 25
+
+
+//----------------------------------
+
+let testNumber = 7
+let evenOdd = testNumber % 2
+//var variousNumbers = testNumber
+
+
+var answer = 0
+answer += 1
+//OR
+//answer = answer + 1
+//answer += 10
+//OR
+answer = answer + 10
+//answer *=10
+answer >> 3
+
+//OR calculate in one line, see next line.
+//answer = ((0 + 1 + 10) * 10) >> (3)
