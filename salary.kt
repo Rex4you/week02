@@ -1,13 +1,10 @@
-{
-		String name = "Rexford Baffour-Gyimah";
-		int age = 25;
-		double annualPay = 99999.99999;
-		System.out.print("My name is ");
-		System.out.print(name);
-		System.out.print(", my age is ");
-		System.out.print(age);
-		System.out.print(" and I hope to earn $");
-		System.out.print(annualPay);
-		System.out.print(" per year.");
-	}
-	}
+fun main(args: Array<String>) {
+    val name = Rexford Baffour Gyimah
+    var age = 25
+    double annualPay = 100000 * 2
+
+    println(name)
+    Println(age)
+    println(double annualPay)
+    
+}
