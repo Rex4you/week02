@@ -1,34 +1,21 @@
-//let myAge: Int = 25
+fun main(args: Array<String>) {
+    val myAge = 25
+    val averagemyAge = 25.0
+    averageAge = (myAge + 30)/2.0
 
-//OR
+    println(myAge)
+    Println(averageAge)
 
-let myAge = 25
-//-----------------------------------
+}
+{
+    var testNumber =  5
+    var evenOdd = testNumber % 2
+    var variousNumbers = testNumber
 
-var averageAge: Double = 25
-averageAge = 30
+}
+{
+    var answer = 0
+    answer = (0 + 1)
+    answer = ((1 + 10) * 10) * 3
 
-//OR
-
-//var averageAge = 25
-
-
-//----------------------------------
-
-let testNumber = 7
-let evenOdd = testNumber % 2
-//var variousNumbers = testNumber
-
-
-var answer = 0
-answer += 1
-//OR
-//answer = answer + 1
-//answer += 10
-//OR
-answer = answer + 10
-//answer *=10
-answer >> 3
-
-//OR calculate in one line, see next line.
-//answer = ((0 + 1 + 10) * 10) >> (3)
+    println(((1 + 10) * 10) * 3)
