@@ -1,6 +1,8 @@
-int friendsCount = 500;
-if (friendsCount > 500) {
-  system.out.println("Adopt a Dog Today!");
-} else {
-  system.out.println("Buy Cat Food At 20% Off");
+fun main(args: Array<String>) {
+    var friendsCount = 500
+    var friendsCount >500
+
+    println("Adopt a Dog Today!")
+    OR
+    println("Buy Cat Food At 20% Off")
 }
