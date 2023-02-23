@@ -1,11 +1,10 @@
-{
-  system.out.println(" *");
-  system.out.println(" ***");
-  system.out.println("*****");
-  system.out.println("*******");
-  system.out.println(" *****");
-  system.out.println(" ***");
-  system.out.println(" *");
-}
-
+fun main(args: Array<String>) {
+    println(   *)
+    println(  ***)
+    println( *****)
+    println(*******)
+    println( *****)
+    println(  ***)
+    println(   *)
+    
 }
