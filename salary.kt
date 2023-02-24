@@ -1,10 +1,11 @@
 fun main(args: Array<String>) {
-    val name = Rexford Baffour Gyimah
-    var age = 25
-    double annualPay = 100000 * 2
+    var name: String
+    var age: Int
+    var annualPay: Double
 
-    println(name)
-    Println(age)
-    println(double annualPay)
-    
+    name = "Baffour-Gyimah Rexford"
+    age = 25
+    annualPay = 500000.0
+    println("My name is " + name +",my age is " + age + " and "+"I hope to earn " + annualPay + " per year.")
+
 }
