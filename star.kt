@@ -1,10 +1,10 @@
-fun main(args: Array<String>) {
-    println(   *)
-    println(  ***)
-    println( *****)
-    println(*******)
-    println( *****)
-    println(  ***)
-    println(   *)
-    
+fun main() {
+  println("   *")
+  println("  ***")
+  println(" *****")
+  println("*******")
+  println(" *****")
+  println("  ***")
+  println("   *")
+  
 }
