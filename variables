@@ -1,18 +1,18 @@
 fun main(args: Array<String>) {
     val myAge = 25
     var averagemyAge: Double = 25.0
-    averageAge = (myAge + 30)/2.0
+    averagemyAge = (myAge + 30) / 2.0
 
     println(myAge)
-    Println(averageAge)
+    println(averagemyAge)
 
-    val testNumber =  5
+    val testNumber = 5
     val evenOdd = testNumber % 2
 
 
     var answer = 0
     answer = (0 + 1)
-    answer = ((1 + 10) * 10) >>3
+    answer = ((1 + 10) * 10) shr 3
 
-    println()
+    println(answer)
 }
