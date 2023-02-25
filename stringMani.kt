@@ -1,17 +1,8 @@
- {
-        
-        Scanner info=new Scanner(System.in);
-        System.out.println("Enter the name of your favourite city");
-        String city=new String();
-        city=info.nextLine();
-         int length=city.length();
-         String upper=new String();
-         upper=city.toUpperCase();
-         String lower=new String();
-         lower=city.toLowerCase();
-         String first=new String();
-         first= String.valueOf(city.charAt(0));
-         System.out.println("You entered the name of your city: "+city+ "\n the number of character in your city are: "+length+"\n Your city name in upper case is: "+upper+"\n Your city name in lower case is: "+lower+"\n the first letter of your city is: "+first);
-        
-
-    }
+fun main(){
+ println("Enter the name of your favorite city")
+ var city = readLine()!!
+ println(city[0])
+ printline("the total characters in the name are " + city.length)
+ println(city.toUpperCase())
+ println(city.toLowerCase())
+}
